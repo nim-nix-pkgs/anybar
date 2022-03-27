@@ -11,6 +11,7 @@
   inputs.src-Anybar-master.ref   = "refs/heads/master";
   inputs.src-Anybar-master.owner = "ba0f3";
   inputs.src-Anybar-master.repo  = "anybar.nim";
+  inputs.src-Anybar-master.dir   = "";
   inputs.src-Anybar-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
