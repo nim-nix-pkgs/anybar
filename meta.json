@@ -7,7 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/ba0f3/anybar.nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/ba0f3/anybar.nim/': Error in the HTTP2 framing layer",
+    "error: RPC failed; curl 16 Error in the HTTP2 framing layer",
+    "fatal: expected flush after ref listing",
     ""
   ],
   "heads": []
